@@ -1,0 +1,9 @@
+chromedriver.exe
+data.json
+pixiv_ids.json
+log.txt
+__pycache__
+MyBookmark_images
+MyBookmark_tag
+pixiv_images
+pixiv_auth.py
